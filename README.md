@@ -1,6 +1,6 @@
 # Magento 2 One Step Checkout Extension
 ## Introduction
-It is confirmed that [Magento 2 One Step Checkout](https://www.mageplaza.com/magento-2-one-step-checkout-extension/) extension can help your store increase conversion rate up to 30%, decrease 66% abandonment cart, and reduce checkout time till 80% !
+It is confirmed that [Magento 2 One Step Checkout Extension](https://www.mageplaza.com/magento-2-one-step-checkout-extension/) extension can help your store increase conversion rate up to 30%, decrease 66% abandonment cart, and reduce checkout time till 80% !
 
 Using Magento 2 One Step Checkout extension assist you in displaying all checkout steps on a single page. This time, the checkout process is totally faster and easier to complete. Moreover, the integration of Google Suggest and Ajax technology will effectively speed up and automate the checkout process.
 
@@ -8,7 +8,7 @@ Forget about the intricacy that may happen and the headache abandonment rate tha
 
 ## Features
 ### All-in-one checkout page
-You can see it obviously right after enabling [Magento 2 One Step Checkout](http://www.magechoice.com/magento-2-one-step-checkout) extension. All necessary information is gathered in one single page only which is well designed and easy to follow. Instead of checkout as step by step, Your shoppers freely choose the field to complete in their most favor.
+You can see it obviously right after enabling [Magento 2 One Step Checkout](https://www.magechoice.com/magento-2-one-step-checkout) extension. All necessary information is gathered in one single page only which is well designed and easy to follow. Instead of checkout as step by step, Your shoppers freely choose the field to complete in their most favor.
 
 <img  src="http://i.imgur.com/n5g9hb0.png" alt="magento 2 one step checkout" class="responsive-img lazy"> 
 
