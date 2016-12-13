@@ -8,7 +8,7 @@ Forget about the intricacy that may happen and the headache abandonment rate tha
 
 ## Features
 ### All-in-one checkout page
-You can see it obviously right after enabling [Magento 2 One Step Checkout](https://www.magechoice.com/magento-2-one-step-checkout) extension. All necessary information is gathered in one single page only which is well designed and easy to follow. Instead of checkout as step by step, Your shoppers freely choose the field to complete in their most favor.
+You can see it obviously right after enabling [Magento 2 One Step Checkout](https://www.bestonestepcheckout.com/) extension. All necessary information is gathered in one single page only which is well designed and easy to follow. Instead of checkout as step by step, Your shoppers freely choose the field to complete in their most favor.
 
 <img  src="http://i.imgur.com/n5g9hb0.png" alt="magento 2 one step checkout" class="responsive-img lazy"> 
 
