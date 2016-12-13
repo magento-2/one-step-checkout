@@ -88,3 +88,7 @@ The Backend configuration interface is both friendly and powerful to process. Yo
 - Supports multiple stores.
 - Supports multiple languages.
 
+
+## Purchase & Documents
+Purchase at https://www.mageplaza.com/magento-2-one-step-checkout-extension/
+User guide: https://docs.mageplaza.com/one-step-checkout-m2/
