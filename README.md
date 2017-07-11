@@ -95,3 +95,226 @@ The Backend configuration interface is both friendly and powerful to process. Yo
 - User guide: https://docs.mageplaza.com/one-step-checkout-m2/
 - Marketplace: https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html
 - Alternative site: https://www.bestonestepcheckout.com/
+
+## CHANGELOG 
+
+
+### v2.3.6
+Released on  2017-06-19
+Release notes: 
+
+- Add features Billing address before shipping address configuration
+- Compatible MultiSafepay (included)
+- Fix delivery time clean up issue
+- Fix bug default payment from admin
+- Fix bug validate shipping method and move order comment to shipping method
+
+
+
+
+### v2.3.5
+Released on  2017-04-14
+Release notes: 
+
+*Fix bugs:*
+ - Coupon code area loading compatible with all versions of Magento 2.1.x
+ - Check Term & condition with logged in customer
+ - Some small minor bugs
+
+
+
+### v2.3.4
+Released on  2017-04-07
+Release notes: 
+
+- Fix minor bugs, compatible with mobile screen
+
+
+
+### v2.3.3
+Released on  2017-03-30
+Release notes: 
+
+*Fix bugs:*
+ - Fix some css bugs
+ - Create account when checking out virtual order
+ - Load only active payment method in configuration
+
+
+
+### v2.3.2
+Released on  2017-03-22
+Release notes: 
+
+- Fix bugs css
+- Customer not login can go through checkout page without Authenticate popup (downloadable). Customer has to register at checkout page
+- Load payment method if country change on virtual quote
+
+
+
+### v2.3.1
+Released on  2017-02-17
+Release notes: 
+
+*Fix bugs:*
+ - Total shipping amount not update when shipping method amount changed
+ - Billing address auto open when add new shipping address (customer login + has address before)
+
+
+
+### v2.3.0
+Released on  2017-02-17
+Release notes: 
+
+*Fix bugs:*
+ - Dont load blocks when changing shipping address (bug with some 3rd party shipping method)
+ - Show only active payment methods when choose default from backend
+
+*Features*
+ - Delivery time
+
+
+
+### v2.2.0
+Released on  2016-12-26
+Release notes: 
+
+- Add feature: Order giftmessage
+- Compatible with Social Login extension
+- Fix bugs
+
+
+
+### v2.1.0
+Released on  2016-12-22
+Release notes: 
+
+- new features:
+    + Address field position
+    + Giftwrap
+    + Popup login
+- Some bugs fixed
+- Compatible with Magento 2.1.3
+- Compatible with IE
+
+
+
+### v2.0.1
+Released on  2016-12-06
+Release notes: 
+
+Fix bugs:
++ Create account when checkout on Magento 2.1.2
++ Correct Product Url in cart summary
++ Validate multiple TOC
+
+
+
+### v2.0.0
+Released on  2016-11-26
+Release notes: 
+
+Release v2.0.0
+- Re-organize structure
+- Resolved compatible issues for almost extensions tested with Magento 2 default checkout
+- Better knockout js loading: address, shipping, payment methods
+
+
+
+### v1.3.0
+Released on  2016-11-18
+Release notes: 
+
+Fix bug:
+- some time shipping address cannot be saved
+- change the address element require to load block (country, region, postcode)
+
+
+
+### v1.2.9
+Released on  2016-10-31
+Release notes: 
+
+Improvement:
+   + Google auto detect address key + specific country
+
+
+
+### v1.2.8
+Released on  2016-10-31
+Release notes: 
+
+Compatible
+  + Some shipping method provider cannot show in admin choose default method
+
+
+
+### v1.2.7
+Released on  2016-10-21
+Release notes: 
+
+Fix:
+- Downloadable product issue
+- Saving default country in quote billing address
+
+
+
+### v1.2.6
+Released on  2016-10-17
+Release notes: 
+
+Improvement:
+- Auto detect address based on address trigger
+
+
+
+
+### v1.2.5
+Released on  2016-10-13
+Release notes: 
+
+Improvement:
+- Google address suggestion in some EU countries
+- Compatible with Multisafepay
+- Add error message to container 
+
+
+
+### v1.2.4
+Released on  2016-09-29
+Release notes: 
+
+Improvement:
+- Loading payment methods in custom themes
+
+Fix:
+- Default shipping/payment method depends on specific countries
+
+
+
+
+### v1.2.3
+Released on  2016-09-27
+Release notes: 
+
+Improvement:
+- Country collection
+
+Fix: 
+- Region required issue
+
+
+
+### v1.2.2
+Released on  2016-09-24
+Release notes: 
+
+Improvement:
+- Order comments
+- Action save address
+
+Fix:
+- Braintree Paypal API updated
+
+
+
