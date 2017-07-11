@@ -1,14 +1,16 @@
-# Magento 2 One Step Checkout Extension
+# Magento 2 One Step Checkout Extension by Mageplaza
 ## Introduction
-It is confirmed that [Mageplaza 2 one step checkout](https://www.mageplaza.com/magento-2-one-step-checkout-extension/) extension can help your store increase conversion rate up to 30%, decrease 66% abandonment cart, and reduce checkout time till 80% !
+It is confirmed that [Mageplaza 2 one step checkout](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) extension can help your store increase conversion rate up to 30%, decrease 66% abandonment cart, and reduce checkout time till 80% !
 
 Using Magento 2 One Step Checkout extension assist you in displaying all checkout steps on a single page. This time, the checkout process is totally faster and easier to complete. Moreover, the integration of Google Suggest and Ajax technology will effectively speed up and automate the checkout process.
 
 Forget about the intricacy that may happen and the headache abandonment rate that you have to face, here comes the best solution for your store - Magento 2 One Step Checkout extension. The abundant amazing features are waiting for you to explore!
 
+`This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) and no longer download from Github.`
+
 ## Features
 ### All-in-one checkout page
-You can see it obviously right after enabling [One Step Checkout module for Magento 2](https://www.bestonestepcheckout.com/) extension. All necessary information is gathered in one single page only which is well designed and easy to follow. Instead of checkout as step by step, Your shoppers freely choose the field to complete in their most favor.
+You can see it obviously right after enabling [One Step Checkout module for Magento 2](https://www.bestonestepcheckout.com/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) extension. All necessary information is gathered in one single page only which is well designed and easy to follow. Instead of checkout as step by step, Your shoppers freely choose the field to complete in their most favor.
 
 <img  src="https://i.imgur.com/n5g9hb0.png" alt="magento 2 one step checkout" class="responsive-img lazy"> 
 
@@ -91,9 +93,9 @@ The Backend configuration interface is both friendly and powerful to process. Yo
 
 
 ## Purchase & Documents
-- Purchase at https://www.mageplaza.com/magento-2-one-step-checkout-extension/
+- Purchase at [https://www.mageplaza.com/magento-2-one-step-checkout-extension/](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github)
 - User guide: https://docs.mageplaza.com/one-step-checkout-m2/
-- Marketplace: https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html
+- Marketplace: [https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html?utm_source=mageplaza&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=mageplaza)
 - Alternative site: https://www.bestonestepcheckout.com/
 
 ## CHANGELOG 
