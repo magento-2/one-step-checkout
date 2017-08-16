@@ -6,7 +6,7 @@ Using Magento 2 One Step Checkout extension assist you in displaying all checkou
 
 Forget about the intricacy that may happen and the headache abandonment rate that you have to face, here comes the best solution for your store - [Magento 2 One Step Checkout extension on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html). The abundant amazing features are waiting for you to explore!
 
-*This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) and no longer download from Github.`*
+*This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) and no longer download from Github.*
 
 ## Features
 ### All-in-one checkout page
