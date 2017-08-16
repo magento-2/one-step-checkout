@@ -4,7 +4,7 @@ It is confirmed that [Mageplaza 2 one step checkout](https://www.mageplaza.com/m
 
 Using Magento 2 One Step Checkout extension assist you in displaying all checkout steps on a single page. This time, the checkout process is totally faster and easier to complete. Moreover, the integration of Google Suggest and Ajax technology will effectively speed up and automate the checkout process.
 
-Forget about the intricacy that may happen and the headache abandonment rate that you have to face, here comes the best solution for your store - Magento 2 One Step Checkout extension. The abundant amazing features are waiting for you to explore!
+Forget about the intricacy that may happen and the headache abandonment rate that you have to face, here comes the best solution for your store - [Magento 2 One Step Checkout extension on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html). The abundant amazing features are waiting for you to explore!
 
 *This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) and no longer download from Github.`*
 
